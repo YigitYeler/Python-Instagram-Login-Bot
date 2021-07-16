@@ -3,7 +3,7 @@ import time
 myUsername = "***"
 myPassword = "***"
 
-browser = webdriver.Edge(executable_path=r'C:\Projects\msedgedriver.exe')
+browser = webdriver.Edge(executable_path=r'***')
 
 browser.get("https://www.instagram.com")
 time.sleep(3)
